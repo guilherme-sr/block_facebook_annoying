@@ -1,7 +1,3 @@
-[Adblock Plus 2.0]
-! Checksum: EbLN899GRWD/9dE+UpqTrw
-! Version: 201705091142
-! Expires: 1 days
 ! Title: facebook annoyances blocker
 ! Homepage: http://facebook.adblockplus.me/
 ! Right sidebar
